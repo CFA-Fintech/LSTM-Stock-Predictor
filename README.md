@@ -50,11 +50,14 @@ Finally, use the testing data to evaluate each model and compare the performance
 
 Use the above to answer the following:
 
-> Which model has a lower loss?
->
+> Which model has a lower loss? 
+### The closing price model has lower loss: 0.0570 compared to the FNG indicator model loss: 0.1242
+> 
 > Which model tracks the actual values better over time?
+### The closing price model tracks the actual values better over time compared to the FNG indicator model
 >
 > Which window size works best for the model?
+### The window size works best for the model is 30
 
 - - -
 
