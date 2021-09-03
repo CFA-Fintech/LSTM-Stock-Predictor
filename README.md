@@ -57,7 +57,7 @@ Use the above to answer the following:
 ### The closing price model tracks the actual values better over time compared to the FNG indicator model
 >
 > Which window size works best for the model?
-### The window size works best for the model is 30
+### The window size that works best for the model is 30
 
 - - -
 
